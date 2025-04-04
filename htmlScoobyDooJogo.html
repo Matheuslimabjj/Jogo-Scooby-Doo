@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mistério Scooby-Doo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <img src="https://i.postimg.cc/GpCxYmvc/title.png" alt="Logo" class="logo" />
+
+  <div class="container">
+    <div class="content">
+      <h2>Parece que temos mais um mistério para resolver.</h2>
+      <p>Tem algo muito estranho acontecendo aqui.</p>
+
+      <div id="jogo" style="display:none;">
+        <div id="logPistas" class="log"></div>
+        <p><strong>Rodada: <span id="rodadaAtual">1</span>/10</strong></p>
+        <p>Escolha alguém para interrogar:</p>
+        <div id="suspeitosBtns"></div>
+        <button id="acusarBtn">🤔 Acusar agora</button>
+      </div>
+
+      <button id="iniciarJogo"><b>Scooby-Dooby-Doo!</b></button>
+      <button id="toggleMusic">🔊 Música: ON</button>
+    </div>
+  </div>
+
+  <audio id="backgroundMusic" src="https://raw.githubusercontent.com/Matheuslimabjj/meusAudios/main/Simple%20Plan%20-%20Whats%20New%20Scooby%20Doo%20Official%20Lyric%20Video.mp3" preload="auto" loop></audio>
+
+  <footer>Alura - Imersão DEV - 2025</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
