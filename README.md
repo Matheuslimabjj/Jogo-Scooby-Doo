@@ -1,25 +1,26 @@
-Jogo Interativo de Mistério com tema Scooby-Doo!
+Jogo de Mistério Scooby-Do - Descubra o Culpado
+Este é um jogo de mistério interativo, desenvolvido como parte da Imersão Dev Alura 2025. O objetivo do jogador é investigar e descobrir quem está por trás dos eventos estranhos, interrogando suspeitos e coletando pistas ao longo de dez rodadas.
 
-Na terceira aula da Imersão Dev da Alura, revisamos conceitos fundamentais como:
+Sobre o projeto
+Este jogo foi criado para praticar conceitos de programação, como manipulação do DOM, eventos interativos e animações. A interface e a narrativa foram inspiradas em investigações clássicas, oferecendo uma experiência envolvente.
 
-Estruturas condicionais (if/else)
+Características principais:
+Interface temática baseada em mistério e investigação
 
-Introdução ao while loop
+Sistema de interrogatório para coletar pistas
 
-Geração de valores aleatórios com Math.random()
+Música ambiente para maior imersão
 
-Com base nesse aprendizado, desenvolvi um jogo de detetive inspirado no universo do Scooby-Doo, onde o jogador tem até 10 rodadas para descobrir quem é o verdadeiro culpado entre os suspeitos.
+Botões animados para interação dinâmica
 
-Além do proposto na aula, implementei melhorias que tornaram o jogo mais dinâmico, bonito e jogável, como:
+Tecnologias utilizadas
+HTML e CSS para estruturação e estilização da interface
 
-Seleção dos suspeitos por botões clicáveis (ao invés de digitação)
+JavaScript para a lógica do jogo e interações do usuário
 
-Sistema de pistas armazenadas ao longo do jogo
+Clique no botão para iniciar e interrogue suspeitos
 
-Log de jogadas para o jogador acompanhar tudo que descobriu
+Após 10 rodadas, faça sua acusação e descubra se acertou
 
-Opção de palpites a cada rodada
-
-Final alternativo, dependendo das escolhas
-
-Trilha sonora, imagem de fundo e animações visuais no estilo retrô.
+Créditos
+Desenvolvido por Matheus como parte da Imersão Dev Alura 2025.
