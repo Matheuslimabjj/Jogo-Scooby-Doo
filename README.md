@@ -24,3 +24,5 @@ Após 10 rodadas, faça sua acusação e descubra se acertou
 
 Créditos
 Desenvolvido por Matheus como parte da Imersão Dev Alura 2025.
+
+OBS: Lembrando que os projetos foram feitos totalmente no codepen!
